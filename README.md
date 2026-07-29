@@ -43,3 +43,4 @@ Hi there! 👋 I'm [Zhishan Zou](https://choucisan.github.io/about), a student a
 ### Blogs
 
 - 📝 **[Using Claude for Microsoft 365 with a Third-Party API Gateway](https://choucisan.github.io/blogs/claude4office/)** A practical guide to connecting the Claude for Microsoft 365 add-in to a third-party LLM gateway through CLIProxyAPI.
+- 📝 **[LLMs Can't Jump and Abductive Reasoning](https://choucisan.github.io/blogs/abr4dl/)** An exploration of abductive reasoning, subjective experience, and why language models can extend existing explanations yet still struggle to make genuine scientific conceptual leaps.

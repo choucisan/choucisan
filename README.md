@@ -22,7 +22,7 @@ Hi there! 👋 I'm [Zhishan Zou](https://choucisan.github.io/about), a student a
 ### Publications
 
 - ✈️ **[Self in Space](https://choucisan.github.io/publications/self-in-space/)** [ACM MM 2026] Benchmarking self-awareness and spatial cognition in UAV embodied intelligence. [[arXiv](https://arxiv.org/abs/2607.12477)] [[project page](https://choucisan.github.io/publications/self-in-space/)] [[code](https://github.com/IntelliSensing/Self-in-Space)] [[huggingface](https://huggingface.co/collections/choucsan/self-in-space)] [[modelscope](https://www.modelscope.cn/collections/choucisan/Self-in-Space)]
-- 🌳 **[Poplar](https://choucisan.github.io/publications/poplar/)** A Scalable Pipeline for Human-Centric Image Dataset Synthesis.[[arXiv](https://arxiv.org/abs/2608.00440)] [[project page](https://choucisan.github.io/publications/poplar/)] [[code](https://github.com/choucisan/poplar)] [[huggingface](https://huggingface.co/collections/choucsan/poplar)] [[modelscope](https://www.modelscope.cn/collections/choucisan/Poplar)]
+- 🌳 **[Poplar](https://choucisan.github.io/publications/poplar/)** A Scalable Pipeline for Human-Centric Image Dataset Synthesis. [[arXiv](https://arxiv.org/abs/2608.00440)] [[project page](https://choucisan.github.io/publications/poplar/)] [[code](https://github.com/choucisan/poplar)] [[huggingface](https://huggingface.co/collections/choucsan/poplar)] [[modelscope](https://www.modelscope.cn/collections/choucisan/Poplar)]
 
 ### Collections
 

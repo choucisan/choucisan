@@ -1,4 +1,11 @@
-Hi there! 👋 I'm [Zhishan Zou](https://choucisan.github.io/about), a student at Beijing University of Posts and Telecommunications. You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=MLkojp4AAAAJ&hl=en). I'm open to collaborations. My research focuses on artificial intelligence, particularly video understanding, video generation, behavior and cognition, and agentic intelligence.
+Hi there! 👋 I'm [Zhishan Zou (邹志山)](https://choucisan.github.io/about), a student at Beijing University of Posts and Telecommunications. My research explores artificial intelligence, with a particular focus on video understanding and generation, behavior and cognition, and agentic intelligence. You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=MLkojp4AAAAJ&hl=en). I'm always open to research collaborations and conversations around brave new ideas.
+
+
+
+
+
+
+
 
 <p>
   <a href="mailto:choucisan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>

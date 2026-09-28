@@ -48,3 +48,10 @@ Hi there! 👋 I'm [Zhishan Zou (邹志山)](https://choucisan.github.io/about),
 
 - 📝 **[Using Claude for Microsoft 365 with a Third-Party API Gateway](https://choucisan.github.io/blogs/claude4office/)** A practical guide to connecting the Claude for Microsoft 365 add-in to a third-party LLM gateway through CLIProxyAPI.
 - 📝 **[LLMs Can't Jump and Abductive Reasoning](https://choucisan.github.io/blogs/abr4dl/)** An exploration of abductive reasoning, subjective experience, and why language models can extend existing explanations yet still struggle to make genuine scientific conceptual leaps.
+
+
+### Contributions
+
+- 🎥 **[LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)** Contributed to the open-source evaluation ecosystem for large multimodal models across image, video, audio, and reasoning tasks.
+- 👁️ **[VLMEvalKit](https://github.com/open-compass/VLMEvalKit)** Contributed to the open-source evaluation ecosystem for vision-language models and multimodal benchmarks.
+- 📝 **[Paper Rebuttal Tips](https://github.com/MLNLP-World/Paper-Rebuttal-Tips)** Contributed practical resources and community knowledge for AI paper rebuttal writing.

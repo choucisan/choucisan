@@ -1,6 +1,6 @@
 ![logo](onethree_logo.jpeg)
 
-Hi there! 👋 I'm [Zhishan Zou (邹志山)](https://choucisan.github.io/about), an undergraduate student at Beijing University of Posts and Telecommunications. I work on video understanding, embodied intelligence, and AI agents, with a particular interest in building AI systems that can perceive, reason, and act in dynamic environments. My publications are available on [Google Scholar](https://scholar.google.com/citations?user=MLkojp4AAAAJ&hl=en). I'm always happy to connect, exchange ideas, and explore potential collaborations.
+Hi there! 👋 I'm [Zhishan Zou](https://choucisan.github.io/about), an undergraduate student at Beijing University of Posts and Telecommunications. I work on video understanding, embodied intelligence, and AI agents, with a particular interest in building AI systems that can perceive, reason, and act in dynamic environments. My publications are available on [Google Scholar](https://scholar.google.com/citations?user=MLkojp4AAAAJ&hl=en). I'm always happy to connect, exchange ideas, and explore potential collaborations.
 
 <p>
   <a href="mailto:choucisan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>

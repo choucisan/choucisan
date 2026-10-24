@@ -41,6 +41,7 @@ Hi there! 👋 I'm [Zhishan Zou](https://choucisan.github.io/about), an undergra
 
 ### Workshops
 
+- 🧪 **[Laboratory Safety Examination Question Bank](https://choucisan.github.io/workshops/lab_safety/)** Search and browse 2,796 laboratory safety examination questions, filter by question type, reveal reference answers, and download the complete question bank.
 - 🧭 **[Gaokao Compass 2025](https://choucisan.github.io/workshops/gaokao_compass/)** An interactive admissions data platform connecting score ranks, enrollment plans, and admission results across China. [[code](https://github.com/choucisan/GaokaoCompass)] [[huggingface](https://huggingface.co/datasets/choucsan/Gaokao-Compass-11M)]
 - 🔎 **[CVPR 2026 Paper Explorer](https://choucisan.github.io/workshops/cvpr2026intro/)** A bilingual visualization platform for searching, classifying, and reading structured introductions to CVPR 2026 papers. [[huggingface](https://huggingface.co/datasets/choucsan/CVPR_Papers)] [[modelscope](https://www.modelscope.cn/datasets/choucisan/CVPR_Papers)]
 
@@ -49,6 +50,10 @@ Hi there! 👋 I'm [Zhishan Zou](https://choucisan.github.io/about), an undergra
 - 📝 **[Using Claude for Microsoft 365 with a Third-Party API Gateway](https://choucisan.github.io/blogs/claude4office/)** A practical guide to connecting the Claude for Microsoft 365 add-in to a third-party LLM gateway through CLIProxyAPI.
 - 📝 **[LLMs Can't Jump and Abductive Reasoning](https://choucisan.github.io/blogs/abr4dl/)** An exploration of abductive reasoning, subjective experience, and why language models can extend existing explanations yet still struggle to make genuine scientific conceptual leaps.
 
+### Slides
+
+- 📄 **[InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](https://choucisan.github.io/slides/InternVideo3.pdf)** [PAPER READING] A technical walkthrough of InternVideo3, covering visual‑agent reasoning, M²LA cache compression, staged long‑video training, benchmark results, and efficient agentic inference.
+- 📄 **[Abductive Reasoning in Deep Learning](https://choucisan.github.io/slides/ABR4DL.pdf)** [RESEARCH INTRODUCTION] An introduction to abductive reasoning from philosophy and scientific discovery to its use in language, knowledge graphs, images, videos, and questions of AI cognition.
 
 ### Contributions
 

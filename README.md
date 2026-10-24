@@ -41,7 +41,7 @@ Hi there! 👋 I'm [Zhishan Zou](https://choucisan.github.io/about), an undergra
 
 ### Workshops
 
-- 🧪 **[Laboratory Safety Examination Question Bank](https://choucisan.github.io/workshops/lab_safety/)** Search and browse 2,796 laboratory safety examination questions, filter by question type, reveal reference answers, and download the complete question bank.
+- 🧪 **[Laboratory Safety Examination Question Bank](https://choucisan.github.io/workshops/lab_safety/)** Search and browse 2,796 laboratory safety examination questions, filter by question type, reveal reference answers, and download the complete question bank. [[huggingface](https://huggingface.co/datasets/choucsan/Lab-Safety-QA)] [[modelscope](https://modelscope.cn/datasets/choucisan/Lab-Safety-QA)]
 - 🧭 **[Gaokao Compass 2025](https://choucisan.github.io/workshops/gaokao_compass/)** An interactive admissions data platform connecting score ranks, enrollment plans, and admission results across China. [[code](https://github.com/choucisan/GaokaoCompass)] [[huggingface](https://huggingface.co/datasets/choucsan/Gaokao-Compass-11M)]
 - 🔎 **[CVPR 2026 Paper Explorer](https://choucisan.github.io/workshops/cvpr2026intro/)** A bilingual visualization platform for searching, classifying, and reading structured introductions to CVPR 2026 papers. [[huggingface](https://huggingface.co/datasets/choucsan/CVPR_Papers)] [[modelscope](https://www.modelscope.cn/datasets/choucisan/CVPR_Papers)]
 
@@ -52,8 +52,8 @@ Hi there! 👋 I'm [Zhishan Zou](https://choucisan.github.io/about), an undergra
 
 ### Slides
 
-- 📄 **[InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](https://choucisan.github.io/slides/InternVideo3.pdf)** [PAPER READING] A technical walkthrough of InternVideo3, covering visual‑agent reasoning, M²LA cache compression, staged long‑video training, benchmark results, and efficient agentic inference.
-- 📄 **[Abductive Reasoning in Deep Learning](https://choucisan.github.io/slides/ABR4DL.pdf)** [RESEARCH INTRODUCTION] An introduction to abductive reasoning from philosophy and scientific discovery to its use in language, knowledge graphs, images, videos, and questions of AI cognition.
+- 📄 **[InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning](https://choucisan.github.io/slides/InternVideo3.pdf)** [Paper Reading] A technical walkthrough of InternVideo3, covering visual‑agent reasoning, M²LA cache compression, staged long‑video training, benchmark results, and efficient agentic inference.
+- 📄 **[Abductive Reasoning in Deep Learning](https://choucisan.github.io/slides/ABR4DL.pdf)** [Research Introduce] An introduction to abductive reasoning from philosophy and scientific discovery to its use in language, knowledge graphs, images, videos, and questions of AI cognition.
 
 ### Contributions
 
